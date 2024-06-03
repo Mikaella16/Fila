@@ -1,0 +1,35 @@
+Bem-vindo ao simulador de caixa de banco!
+
+Digite o nome do cliente: João
+
+Digite o tempo de atendimento (em minutos): 5
+Digite o nome do cliente: Maria
+Digite o tempo de atendimento (em minutos): 10
+Digite o nome do cliente: Pedro
+Digite o tempo de atendimento (em minutos): 3
+**Atendimento em andamento:**
+Cliente: João
+Tempo restante: 5 minutos
+**Fila de espera:**
+- Maria (10 minutos)
+- Pedro (3 minutos)
+**Atendimento concluído:**
+Cliente: João
+Tempo de atendimento: 5 minutos
+**Atendimento em andamento:
+**Cliente: Maria
+
+Tempo restante: 10 minutos
+
+**Fila de espera:**
+- Pedro (3 minutos)
+**Atendimento concluído:**
+Cliente: Maria
+Tempo de atendimento: 10 minutos
+**Atendimento em andamento:**
+Cliente: Pedro
+Tempo restante: 3 minutos
+**Atendimento concluído:**
+Cliente: Pedro
+Tempo de atendimento: 3 minutos
+**Fila de espera vazia!**
